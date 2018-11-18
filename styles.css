@@ -1,0 +1,20 @@
+img {
+    width:400px;
+    border:dotted black;
+}    
+body {
+    text-align:center;
+    background-image:url("https://cdn.images.express.co.uk/img/dynamic/143/590x/Fortnite-Battle-Royale-Epic-Games-version-3-3-patch-notes-932114.jpg");
+    background-attachment:fixed;
+    background-position:center;
+    background-size:1600px;
+    color:red;
+    font-family: 'Indie Flower', cursive;
+    font-size:30px;
+}
+a:hover {
+    color:red;
+}    
+li strong {
+    color:black;
+}    
